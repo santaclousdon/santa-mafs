@@ -3,7 +3,6 @@
   "version": "0.17.1",
   "license": "MIT",
   "author": "Santa Clous",
-  "repository": "github:stevenpetryk/mafs",
   "source": "src/index.tsx",
   "main": "build/index.js",
   "module": "build/index.mjs",
