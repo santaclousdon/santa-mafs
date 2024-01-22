@@ -1,8 +1,6 @@
-# Mafs
+# Santa-Mafs
 
 Mafs is a set of opinionated React components for creating math visualizations.
-
-[Visit the docs →](https://mafs.dev)
 
 ---
 
@@ -30,3 +28,15 @@ pnpm test:unit # to run just the Jest tests
 pnpm test:e2e  # to run Playwright (end-to-end and visual tests)
 pnpm test -- --update-snapshots # to update the visual test baselines
 ```
+
+### Contacts
+
+
+![Gmail](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/mailto.svg)               
+        santaclous112@gmail.com
+
+![Skype](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/skype.svg)               
+        live:.cid.772f958a47f37977
+
+![Telegram](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/telegram.svg)               
+        PeaceStar01
